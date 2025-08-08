@@ -5,10 +5,10 @@ This project analyzes employee attrition data for Green Destinations, identifyin
 The analysis is done in Python (NumPy, Pandas, Matplotlib) and visualized in Tableau.
 
 # 📂 Files in this Repository
-- `GreenDestinations_Attrition_Analysis.ipynb` – Data cleaning & analysis
+- `DA Project.ipynb` – Data cleaning & analysis
 - `GreenDestinations_Attrition_Full_Report.pdf` – Formal project report
-- `GreenDestinations_Dashboard.twbx` – Tableau packaged workbook
-- Dataset CSV (if permitted)
+- `Greendestination Employee attrition analysis.twbx` – Tableau packaged workbook
+
 
 # 📊 Live Tableau Dashboard
 [View on Tableau Public](https://public.tableau.com/views/GreendestinationEmployeeattritionanalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
